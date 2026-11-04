@@ -1,0 +1,19 @@
+# Compiler outputs
+/server
+/test_protocol
+*.o
+*.a
+
+# Generated experiment data
+/logs/
+/figs/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Editor / OS local files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
